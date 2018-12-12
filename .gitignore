@@ -1,3 +1,7 @@
+# Deeply files
+deeply.jar
+libdeeply*.so
+
 # Built application files
 *.apk
 *.ap_
