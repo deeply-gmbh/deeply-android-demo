@@ -69,3 +69,11 @@ Deeply results in the preview:
  * ObjectGraphic: Implementation of Graphic interface to draw Deeply
  object previews
  * ContentView: View that uses the ObjectGraphics to draw the complete result
+
+## License
+
+This project is licensed under the [Apache-2.0](LICENSE) license.
+
+Parts of the CameraFragment and the AutoFitTextureView are taken from
+[android-Camera2Video](https://github.com/googlesamples/android-Camera2Video)
+sample from Google licensed under der Apache-2.0 license.
