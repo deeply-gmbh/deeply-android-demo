@@ -18,7 +18,7 @@ import de.deeply.Image;
 import de.deeply.LogLevel;
 import de.deeply.Marker;
 import de.deeply.Processor;
-import de.deeplyapp.demo.R;
+import de.deeply.demo.R;
 
 
 public class MainActivity extends AppCompatActivity
@@ -80,9 +80,6 @@ public class MainActivity extends AppCompatActivity
                .replace( R.id.container, CameraFragment.newInstance() )
                .commit();
       }
-
-      //Toolbar toolbar = (Toolbar) findViewById( R.id.toolbar );
-      //setSupportActionBar( toolbar );
    }
 
    @NonNull

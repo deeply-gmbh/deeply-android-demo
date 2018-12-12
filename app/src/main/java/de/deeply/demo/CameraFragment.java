@@ -48,7 +48,7 @@ import java.util.concurrent.TimeUnit;
 
 import de.deeply.Content;
 import de.deeply.Processor;
-import de.deeplyapp.demo.R;
+import de.deeply.demo.R;
 import de.deeplyapp.demo.processor.OnImageAvailableListener;
 import de.deeply.demo.ui.AutoFitTextureView;
 import de.deeply.demo.ui.ContentView;
