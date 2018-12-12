@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Deeply</string>
+
+    <string name="request_permission">Deeply needs camera permission to run the analysis</string>
+    <string name="camera_error">Devices does not suppor Android Camera2 API.</string>
+    <string name="title_activity_main">www.deeplyapp.de</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
